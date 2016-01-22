@@ -4,8 +4,7 @@
 	<meta charset="UTF-8">
 </head> 
 <body>
-
-<h1>Si sale esto la he cagado</h1>
+<h1>Icóno del día</h1>
 
 <h3>Hola internauta.¿Qué tal?</h3>
 
